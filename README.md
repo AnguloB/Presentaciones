@@ -3,9 +3,12 @@
 
 En esta carpeta hay un resumen de las presentaciones disponibles online con recursos disponibles en github a partir de verano de 2021.
 
+##  2022
+
+**Gráficos para investigación**
+- Tutorial  [aqui](https://github.com/AnguloB/Presentaciones/tree/main/2022/Gráficos%20para%20investigación).
+
 ##  2021
-
-
 
 **Recursos para una comunicación efectiva con gráficos**. 
 
@@ -15,6 +18,3 @@ En esta carpeta hay un resumen de las presentaciones disponibles online con recu
 
 - Presentación R-ladies. Slides y tutorial  [aqui](https://github.com/AnguloB/tutorial-gganimate).
 - Video en youtube [aqui](https://www.youtube.com/watch?v=A6OE1zeCdGA&t=539s).
-
-**Gráficos para investigación**
-- Tutorial  [aqui](https://github.com/AnguloB/Presentaciones/tree/main/2022/Gráficos%20para%20investigación).
