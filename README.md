@@ -6,7 +6,6 @@ En esta carpeta hay un resumen de las presentaciones disponibles online con recu
 ##  2022
 
 **Gráficos para investigación**
-- Tutorial  [aqui](https://github.com/AnguloB/Presentaciones/tree/main/2022/Gráficos%20para%20investigación).
 
 ##  2021
 
