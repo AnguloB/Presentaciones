@@ -5,7 +5,7 @@ En esta carpeta hay un resumen de las presentaciones disponibles online con recu
 
 ##  2022
 
-[**Gráficos para investigación**](https://github.com/AnguloB/Presentaciones/blob/main/2022/Gráficos%20para%20investigación/README.md)
+[**Gráficos para investigación**](https://github.com/AnguloB/Presentaciones/blob/main/2022/Gráficos%20para%20investigación/)
 
 ##  2021
 
