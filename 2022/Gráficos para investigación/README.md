@@ -3,7 +3,7 @@
 #### Ariadna Angulo-Brunet
 
 
-Este texto forma parte del taller desarrollado en julio de 2022 para [Rladies Villahermosa](https://twitter.com/RLadiesVhsa). Puedes encontrar los Scripts completos en [esta carpeta](/Scripts). El objetivo principal es aprender a gráficos básicos y adaptarlos a diferentes formatos que pueden pedir las revistas. Para ello, además de aprender a utilizar los elementos básicos de ggplot, también vamos a aprender a personalizar _themes_ 
+Este texto forma parte del taller desarrollado en julio de 2022 para [Rladies Villahermosa](https://twitter.com/RLadiesVhsa). Puedes encontrar los Scripts completos en [esta carpeta](/Scripts) y un video en el canal de Facebook de Rladies Villahermosa [video](https://fb.watch/jhdnYhZnz0/). El objetivo principal es aprender a gráficos básicos y adaptarlos a diferentes formatos que pueden pedir las revistas. Para ello, además de aprender a utilizar los elementos básicos de ggplot, también vamos a aprender a personalizar _themes_ 
 
 Vamos a necesitar los siguientes paquetes:
 
